@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "nightwolf"
+version = "0.1.0"
+description = "Nightwolf is a fictional character in the Mortal Kombat fighting game"
+authors = ["michaelact <86778470+michaelact@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
