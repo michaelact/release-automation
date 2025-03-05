@@ -1,0 +1,26 @@
+{
+  "include-component-in-tag": true,
+  "tag-separator": "@",
+  "release-type": "python",
+  "separate-pull-requests": true,
+  "packages": {
+    "./libs/blackwolf": {
+      "package-name": "blackwolf",
+      "extra-files": [
+        "./libs/blackwolf/pyproject.toml"
+      ]
+    },
+    "./libs/nightwolf": {
+      "package-name": "nightwolf",
+      "extra-files": [
+        "./libs/nightwolf/pyproject.toml"
+      ]
+    },
+    "./libs/whitewolf": {
+      "package-name": "whitewolf",
+      "extra-files": [
+        "./libs/whitewolf/pyproject.toml"
+      ]
+    }
+  }
+}

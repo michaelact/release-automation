@@ -1,6 +1,8 @@
 [tool.poetry]
 name = "whitewolf"
+# x-release-please-start-version
 version = "0.1.0"
+# x-release-please-end
 description = "A white wolf or Arctic wolf is a mammal of the Canidae family and a subspecies of the gray wolf"
 authors = ["michaelact <86778470+michaelact@users.noreply.github.com>"]
 readme = "README.md"
