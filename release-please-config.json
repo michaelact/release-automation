@@ -4,22 +4,22 @@
   "release-type": "python",
   "separate-pull-requests": true,
   "packages": {
-    "./libs/blackwolf": {
+    "libs/blackwolf": {
       "package-name": "blackwolf",
       "extra-files": [
-        "./libs/blackwolf/pyproject.toml"
+        "pyproject.toml"
       ]
     },
-    "./libs/nightwolf": {
+    "libs/nightwolf": {
       "package-name": "nightwolf",
       "extra-files": [
-        "./libs/nightwolf/pyproject.toml"
+        "pyproject.toml"
       ]
     },
-    "./libs/whitewolf": {
+    "libs/whitewolf": {
       "package-name": "whitewolf",
       "extra-files": [
-        "./libs/whitewolf/pyproject.toml"
+        "pyproject.toml"
       ]
     }
   }
