@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "blackwolf"
 # x-release-please-start-version
-version = "0.1.0"
+version = "1.0.0"
 # x-release-please-end
 description = "A black wolf is a melanistic colour variant of the gray wolf (Canis lupus)"
 authors = ["michaelact <86778470+michaelact@users.noreply.github.com>"]
