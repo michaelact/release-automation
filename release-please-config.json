@@ -5,19 +5,19 @@
   "separate-pull-requests": true,
   "packages": {
     "libs/blackwolf": {
-      "package-name": "blackwolf",
+      "package-name": "black_wolf",
       "extra-files": [
         "pyproject.toml"
       ]
     },
     "libs/nightwolf": {
-      "package-name": "nightwolf",
+      "package-name": "night_wolf",
       "extra-files": [
         "pyproject.toml"
       ]
     },
     "libs/whitewolf": {
-      "package-name": "whitewolf",
+      "package-name": "white_wolf",
       "extra-files": [
         "pyproject.toml"
       ]
